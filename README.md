@@ -1,7 +1,7 @@
 # NotesOnMLAPP
 
 ## Introduction
-This repository includes my notes on Machine Learning: A Probabilistic Perspective(Kelvin P. Murphy).
+This repository includes my notes on MLAPP(*Machine Learning: A Probabilistic Perspective*, Kelvin P. Murphy).
 
 The notes is composed of:
 * Summary of the knowledge in the book.
@@ -10,6 +10,8 @@ The notes is composed of:
 * My answers of the excecises.
 
 Once I finished reading a chapter, I will upload a note in pdf.
+
+Feel free to contact me if you have anything to supplement or question.
 
 ## Contents
 
@@ -41,5 +43,3 @@ Once I finished reading a chapter, I will upload a note in pdf.
 26. Graphical model structure learning
 27. Latent variable models for discrete data
 28. Deep learning
-
-I'm still working on it...
