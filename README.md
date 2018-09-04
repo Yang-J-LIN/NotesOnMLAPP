@@ -15,7 +15,7 @@ Feel free to contact me if you have anything to supplement or question.
 
 ## Contents
 
-1. Introduction
+1. [Introduction](https://github.com/white-tooth/NotesOnMLAPP/blob/master/chapter%201.pdf)
 2. Probability
 3. Generative models for discrete data
 4. Gaussian models
